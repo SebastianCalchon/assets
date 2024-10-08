@@ -16,6 +16,6 @@
     "server"
   ],
   "dependencies": {
-    "com.itisnajim.socketiounity": "1.1.4"
+    "com.itisnajim.socketiounity": ""
   }
 }
