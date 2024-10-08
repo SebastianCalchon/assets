@@ -11,6 +11,6 @@
   },
   "keywords": ["xr", "plugin", "networking", "server"],
   "dependencies": {
-    "com.github.socketio.unity": "https://github.com/usuario/socketio-unity.git#release"
+    "com.github.socketio.unity": "https://github.com/itisnajim/SocketIOUnity.git"
   }
 }
