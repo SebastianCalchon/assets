@@ -16,6 +16,6 @@
     "server"
   ],
   "dependencies": {
-    "com.itisnajim.socketiounity": ""
+    "com.itisnajim.socketiounity": "https://github.com/itisnajim/SocketIOUnity.git"
   }
 }
