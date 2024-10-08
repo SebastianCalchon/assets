@@ -11,6 +11,7 @@
   },
   "keywords": ["xr", "plugin", "networking", "server"],
   "dependencies": {
-    "com.github.socketio.unity": "https://github.com/itisnajim/SocketIOUnity.git"
+    "com.github.socketio.unity": "https://github.com/itisnajim/SocketIOUnity.git",
+    "com.ecpix.serverplugin": "https://github.com/SebastianCalchon/assets.git"
   }
 }
