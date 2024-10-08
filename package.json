@@ -10,9 +10,9 @@
     "url": "https://ecpix.com"
   },
   "keywords": [
-    "xr", 
-    "plugin", 
-    "networking", 
+    "xr",
+    "plugin",
+    "networking",
     "server"
   ],
   "dependencies": {
