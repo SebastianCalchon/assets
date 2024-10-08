@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "com.github.itisnajim.socketiounity": "https://github.com/itisnajim/SocketIOUnity.git#main"
+  }
+}
