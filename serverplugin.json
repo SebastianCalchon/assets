@@ -1,0 +1,16 @@
+{
+  "name": "com.ecpix.serverplugin",
+  "version": "1.0.0",
+  "displayName": "serverplugin",
+  "description": "This is a plugin made by ecpix, whose purpose is to create a local server to connect multiple players to the same scenario and generate an interactive experience between them, allowing them all to live the same virtual reality environments in real time with multiple participants.",
+  "unity": "2022.3.26f1",
+  "author": {
+    "name": "Sebastian Calchon / Ecpix",
+    "email": "sebastiancalchon@gmail.com",
+    "url": "https://ecpix.com"
+  },
+  "keywords": ["xr", "plugin", "networking", "server"],
+  "dependencies": {
+    "com.github.socketio.unity": "https://github.com/usuario/socketio-unity.git#release"
+  }
+}
