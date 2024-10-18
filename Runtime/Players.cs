@@ -224,7 +224,7 @@ public class Players : MonoBehaviour
 
                 if (dataPlayer.leftHandRotation != null)
                 {
-                    Vector3 leftHandRotation = new Vector3(dataPlayer.leftHandRotation.x + 180, dataPlayer.leftHandRotation.y, dataPlayer.leftHandRotation.z + 180);
+                    Vector3 leftHandRotation = new Vector3(dataPlayer.leftHandRotation.x + 180, dataPlayer.leftHandRotation.y, dataPlayer.leftHandRotation.z);
                     player.SetLeftHandRotation(leftHandRotation);
                 }
 
@@ -236,7 +236,7 @@ public class Players : MonoBehaviour
 
                 if (dataPlayer.rightHandRotation != null)
                 {
-                    Vector3 rightHandRotation = new Vector3(dataPlayer.rightHandRotation.x + 180, dataPlayer.rightHandRotation.y, dataPlayer.rightHandRotation.z + 180);
+                    Vector3 rightHandRotation = new Vector3(dataPlayer.rightHandRotation.x + 180, dataPlayer.rightHandRotation.y, dataPlayer.rightHandRotation.z);
                     player.SetRightHandRotation(rightHandRotation);
                 }
             }
